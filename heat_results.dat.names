@@ -1,0 +1,10 @@
+Metadata for SaveScalars file: ./heat_results.dat
+Elmer version: 26.1
+Elmer revision: 0a0fcfe99
+Elmer compilation date: 2026-03-24
+Solver input file: case.sif
+File started at: 2026/04/05 10:40:07
+ 
+Variables in columns of matrix: 
+   1: boundary int: temperature flux over bc 1
+   2: boundary int: temperature grad over bc 1

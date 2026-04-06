@@ -1,0 +1,10 @@
+! ----- names for bodies -----
+$ air = 1
+$ a = 2
+$ b = 3
+! ----- names for boundaries -----
+$ AB = 1
+$ CD = 2
+$ AC = 3
+$ BD = 4
+$ bnry8 = 5
